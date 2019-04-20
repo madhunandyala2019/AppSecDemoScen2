@@ -12,7 +12,7 @@
 </head>
 <body>
 
-
+<!-- Sample HTML comment for getting caught in SAST (APPSCAN) -->
 	<h1 align="center">
 		Login Success. Welcome
 		<bean:write name="LoginForm" property="userName"></bean:write>
