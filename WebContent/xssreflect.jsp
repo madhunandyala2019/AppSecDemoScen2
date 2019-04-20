@@ -15,7 +15,7 @@
 	
 	<jsp:include page="menu.jsp" />
 	<div class="login">
-				
+		<!-- Sample HTML comment for getting caught in SAST (APPSCAN) -->
 		<%=request.getAttribute("username")%>
 	</div>
 	
