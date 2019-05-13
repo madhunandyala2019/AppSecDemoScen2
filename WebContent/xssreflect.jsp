@@ -17,6 +17,7 @@
 	<div class="login">
 		<!-- Sample HTML comment for getting caught in SAST (APPSCAN) -->
 		<%=request.getAttribute("username")%>
+			  
 	</div>
 	
 <h3 align="center"><font color="black"><bean:write name="XSSLessonForm" property="userName"></bean:write></font></h3>
