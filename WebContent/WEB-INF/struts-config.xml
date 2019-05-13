@@ -45,7 +45,7 @@
 		
 		<action input="/xssinput.jsp" name="XSSLessonForm" path="/xssfix"
 			scope="session" type="com.ibm.security.XSSElementActionFix">
-			<forward name="success" path="/xssfix.jsp" />
+			<forward name="success" path="/xssfix2.jsp" />
 		</action>
 		
 
