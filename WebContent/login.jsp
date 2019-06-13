@@ -24,7 +24,7 @@
    
     <div class="login">
      
-        <h1 align="Center">Login</h1>
+        <!-- <h1 align="Center">Login</h1> -->
         <html:form action="/Login" >
             User Name : <html:text name="LoginForm" styleClass="input" property="userName" /> <br>
             Password  : <html:password name="LoginForm" styleClass="input" property="password" /> <br>
