@@ -204,7 +204,7 @@ input:focus {
 	margin-top:50px;
 }
 .image{
-	padding-left:0rem;
+	padding-left:20rem;
 }
 .container > div {
   flex: 1; /*grow*/
